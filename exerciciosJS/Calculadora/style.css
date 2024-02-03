@@ -1,0 +1,27 @@
+.botoes{
+    margin-top: 170px;
+    margin-left: 50px;
+}
+html, body {
+    height: 100%;
+}
+
+body {
+    max-width: 400px;
+    font-family: gotham, arial, helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0;
+    margin: 0 auto !important;
+    
+}
+.background{
+    background: rgb(76, 205, 205);
+    height: 50%;
+    margin-top: 45%;
+    position: relative;
+}
+.inputs{
+    margin-left: 50px; 
+
+}
+

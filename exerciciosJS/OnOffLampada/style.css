@@ -1,0 +1,14 @@
+
+    .lampada-acesa {
+      display: block;
+      width: 150px;
+      height: 150px;
+    }
+    .lampada-apagada {
+      display: block;
+      width: 150px;
+      height: 150px;
+    }
+    .button{
+        margin-top: 20px;
+    }
